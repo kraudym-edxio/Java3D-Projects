@@ -11,7 +11,7 @@ import org.jogamp.java3d.*;
 import org.jogamp.java3d.utils.image.TextureLoader;
 import org.jogamp.vecmath.*;
 
-public class PavillionAndBase extends JPanel {
+public class CodeAssign2 extends JPanel {
 
 	private static final long serialVersionUID = 1L;
 
